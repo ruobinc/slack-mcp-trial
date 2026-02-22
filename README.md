@@ -14,7 +14,6 @@ openssl rand -hex 32
 
 4. 
 npm install
-npm start
 
 # ngrok
 1. ローカルサーバー起動
